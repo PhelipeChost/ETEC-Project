@@ -263,8 +263,6 @@ include('verifica_login.php');
           </div>
         </div>
         <div class="row">
-          
-
           <div class="col-md-6 col-lg-3 mb-4">
             <div class="team-member">
               <figure>
@@ -304,22 +302,6 @@ include('verifica_login.php');
                   <li><a href="#" target="_blank"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#" target="_blank"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="images/person_7.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="p-3">
-                <h3>Maria Luiza</h3>
-                <span class="position">Designer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 mb-4">
-            <div class="team-member">
-              <figure>
-                <ul class="social">
-                  <li><a href="#" target="_blank"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#" target="_blank"><span class="icon-instagram"></span></a></li>
-                </ul>
                 <img src="images/person_8.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
@@ -328,23 +310,6 @@ include('verifica_login.php');
               </div>
             </div>
           </div>
-
-          <div class="col-md-6 col-lg-3 mb-4">
-            <div class="team-member">
-              <figure>
-                <ul class="social">
-                  <li><a href="#" target="_blank"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#" target="_blank"><span class="icon-instagram"></span></a></li>
-                </ul>
-                <img src="images/person_9.jpg" alt="Image" class="img-fluid">
-              </figure>
-              <div class="p-3">
-                <h3>Rodrigo</h3>
-                <span class="position">Expert in Social Life</span>
-              </div>
-            </div>
-          </div>
-
           
         </div>
       </div>
