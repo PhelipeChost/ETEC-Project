@@ -84,10 +84,10 @@ include('verifica_login.php');
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false"><img src="images/engrenagem.png" width="25"></a>
                   <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">Meu perfil</a></li>
-                    <li><a class="dropdown-item" href="#">Sobre Nós</a></li>
+                    <li><a class="dropdown" href="" style="padding: 5px"><img src="images/meu-perfil.png" width="85"></a></li>
+                    <li><a class="dropdown" href="" style="padding: 5px"><img src="images/sobre-nos.png" width="85"></a></li>
                     <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="logout.php"><img src="images/Button-sair.png" width="50"></a></li>
+                    <li><a class="dropdown-item" href="logout.php"><img src="images/Button-sair.png" width="40"></a></li>
                   </ul>
                 </li>
 
@@ -161,99 +161,7 @@ include('verifica_login.php');
         </div>
       </div>
     </section>
-  
 
-
-    <!-- 
-      <div class="site-section bg-light" id="training-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Our Training</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <ul class="list-unstyled training">
-              <li class="mb-5 d-block d-lg-flex">
-                <div class="mr-5 mb-4 img">
-                  <a href="training-single.html"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
-                </div>
-                <div>
-                  <h2 class="h4"><a href="training-single.html" class="text-black">How to deal your business?</a></h2>
-                  <span class="text-muted d-block mb-4">Finance</span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur dolores .</p>
-                </div>
-              </li>
-
-              <li class="mb-5 d-block d-lg-flex">
-                <div class="mr-5 mb-4 img">
-                  <a href="training-single.html"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
-                </div>
-                <div>
-                  <h2 class="h4"><a href="training-single.html" class="text-black">How to stay progressive in knowledge</a></h2>
-                  <span class="text-muted d-block mb-4">Social Life</span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur dolores .</p>
-                </div>
-              </li>
-
-              <li class="mb-5 d-block d-lg-flex">
-                <div class="mr-5 mb-4 img">
-                  <a href="training-single.html"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
-                </div>
-                <div>
-                  <h2 class="h4"><a href="training-single.html" class="text-black">How To Invest In Investing Company</a></h2>
-                  <span class="text-muted d-block mb-4">Family Issue</span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur dolores .</p>
-                </div>
-              </li>
-
-            </ul>
-          </div>
-          <div class="col-md-6">
-            <ul class="list-unstyled training">
-              <li class="mb-5 d-block d-lg-flex">
-                <div class="mr-5 mb-4 img">
-                  <a href="training-single.html"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
-                </div>
-                <div>
-                  <h2 class="h4"><a href="training-single.html" class="text-black">How to deal your business?</a></h2>
-                  <span class="text-muted d-block mb-4">Family Issue</span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur dolores .</p>
-                </div>
-              </li>
-
-              <li class="mb-5 d-block d-lg-flex">
-                <div class="mr-5 mb-4 img">
-                  <a href="training-single.html"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
-                </div>
-                <div>
-                  <h2 class="h4"><a href="training-single.html" class="text-black">How to stay progressive in knowledge</a></h2>
-                  <span class="text-muted d-block mb-4">Finance</span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur dolores .</p>
-                </div>
-              </li>
-
-              <li class="mb-5 d-block d-lg-flex">
-                <div class="mr-5 mb-4 img">
-                  <a href="training-single.html"><img src="images/img_3.jpg" alt="Image" class="img-fluid"></a>
-                </div>
-                <div>
-                  <h2 class="h4"><a href="training-single.html" class="text-black">How To Invest In Investing Company</a></h2>
-                  <span class="text-muted d-block mb-4">Job Issue</span>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur dolores .</p>
-                </div>
-              </li>
-
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-  -->
-    
-    
-    
     <section class="site-section border-bottom" id="team-section" style="background-color: white;">
       <div class="container">
         <div class="row mb-5">
