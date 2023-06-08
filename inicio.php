@@ -289,7 +289,8 @@ include('verifica_login.php');
               <div class="unit-4-icon mr-4"><img src="images/Icons/logo-html.png" width="48"></span></div>
               <div>
                 <h3>HTML5</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Linguagem de Marcação de Hipertexto — Componente de base web. Permite a construção de web sites 
+                e inserção de conteúdos, podendo utilizar imagens e vídeos por meio de Hipertextos</p>
                 <p><a href="modulo-html5.php">Acessar curso</a></p>
               </div>
             </div>
@@ -300,7 +301,8 @@ include('verifica_login.php');
               <div class="unit-4-icon mr-4"><img src="images/Icons/logo-css.png" width="48"></span></div>
               <div>
                 <h3>CSS3</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p> Folhas de estilo em cascata — Linguagem de marcação utilizada com HTML. 
+                Representa diversas possibilidades de formatação,que define um estilo à página web</p>
                 <p><a href="modulo-css3.html">Acessar Curso</a></p>
               </div>
             </div>
@@ -310,7 +312,7 @@ include('verifica_login.php');
               <div class="unit-4-icon mr-4"><img src="images/Icons/logo-javascript.png" width="48"></span></div>
               <div>
                 <h3>JAVA SCRIPT</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Linguagem de programação usada por desenvolvedores para fazer páginas interativas da Internet.</p>
                 <p><a href="modulo-javascript.php">Acessar Curso</a></p>
               </div>
             </div>
@@ -322,7 +324,8 @@ include('verifica_login.php');
               <div class="unit-4-icon mr-4"><img src="images/Icons/logo-php.png" width="48"></span></div>
               <div>
                 <h3>PHP</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Pré-processador de hipertexto — Linguagem de programação voltada originalmente para desenvolvimento 
+                  de sites e aplicações web. Muito utilizada para estrutura de repetições.</p>
                 <p><a href="modulo-php.php">Acessar Curso</a></p>
               </div>
             </div>
@@ -332,7 +335,8 @@ include('verifica_login.php');
               <div class="unit-4-icon mr-4"><img src="images/Icons/logo-mysql.png" width="48"></span></div>
               <div>
                 <h3>MySQL</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Minha Linguagem de consulta estruturada — Sistema de gerenciamento de base de dados relacional.
+                  Utilizado no armazenamento de publicações, usuários, informações e plugins.</p>
                 <p><a href="modulo-mysql.php">Acessar Curso</a></p>
               </div>
             </div>
